@@ -54,3 +54,32 @@ prompted --- input("what number do you want to enter")
 # Chapter 5
 
 CONTROL FLOW = Boolean True/False
+order of operations
+    1 NOT
+    2 AND
+    3 OR
+
+NOT will reverse, it is unary ie. negates (-)
+
+BUILDING AN EXCLUSIVE
+making it so you can't have two false or two true, only one or the other.
+no other boolean can do this and it needs to be built
+
+x and y
+
+(x AND NOT y) or (y AND NOT x)
+
+ORDER OF ARITHMETIC AND BOOLEAN
+arithmetic is priortitized before comparisons and boolean operators
+1 arithmetic
+2 comparison/relational
+3 boolean
+
+IF and ELIF
+Using if statements
+conditional
+format in Python
+
+    if x and y:
+
+if statement does relational or some product of gathering boolean 
