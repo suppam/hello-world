@@ -19,3 +19,4 @@ the parameter is the item int eh parentheses that is being used as input to the 
 the variabels within the function are local variables only used in teh function and not sent out of it, purpose is to calculate intermediate values before return
 function calls tell python to execute a function
 the function argument is the expression that appears between the parentheses of the function call. upon the function being completed, the return value is assigned to the parameter
+
